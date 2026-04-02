@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "backend/app.py": {
+      "runtime": "python3.11"
+    }
+  }
+}
